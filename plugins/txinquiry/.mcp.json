@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "txinquiry": {
+      "type": "http",
+      "url": "https://inquiry.tracxlogis.com/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "tx-inquiry-mcp-marketplace",
+  "owner": {
+    "name": "TX Platform Team"
+  },
+  "metadata": {
+    "description": "TX Inquiry(CS 문의) MCP 연결과 상담 업무 스킬을 배포하는 사내 플러그인 카탈로그",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "txinquiry",
+      "source": "./plugins/txinquiry",
+      "description": "TX Inquiry MCP 서버 연결 + 상담 업무 스킬(대기열·티켓 처리·고객 배경·상담원 운영·업무 브리핑)",
+      "version": "0.1.0",
+      "category": "support"
+    }
+  ]
+}

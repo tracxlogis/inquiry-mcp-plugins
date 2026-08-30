@@ -1,0 +1,17 @@
+{
+  "name": "tx-inquiry-mcp-marketplace",
+  "interface": {
+    "displayName": "TX Inquiry Plugins"
+  },
+  "plugins": [
+    {
+      "name": "txinquiry",
+      "source": { "source": "local", "path": "./plugins/txinquiry" },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Support"
+    }
+  ]
+}
