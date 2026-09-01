@@ -27,7 +27,7 @@ TX Inquiry(CS 문의) 시스템을 AI 어시스턴트에 연결하는 **사내�
 
 ```
 codex plugin marketplace add https://gitlab.qxpress.net/qlps/tx-inquiry-mcp-plugins.git
-codex plugin install txinquiry@tx-inquiry-mcp-marketplace
+codex plugin add txinquiry@tx-inquiry-mcp-marketplace
 ```
 
 ### 데스크톱 앱
@@ -98,7 +98,7 @@ Codex CLI:
 
 ```
 codex plugin marketplace add https://gitlab.qxpress.net/qlps/tx-inquiry-mcp-plugins.git
-codex plugin install txinquiry@tx-inquiry-mcp-marketplace
+codex plugin add txinquiry@tx-inquiry-mcp-marketplace
 ```
 
 For the desktop apps, add the same repository URL from **Settings → Plugins → Add → Add from

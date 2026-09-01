@@ -1,6 +1,6 @@
 {
   "name": "txinquiry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TX Inquiry 상담 업무 플러그인 — CS 문의 MCP 서버 연결(OAuth 2.1 / 개인 API 키)과 대기열·티켓 처리·고객 배경 조회·상담원 운영·업무 브리핑 스킬을 제공한다.",
   "author": {
     "name": "TX Platform Team"
